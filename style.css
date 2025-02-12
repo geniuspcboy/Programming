@@ -11,3 +11,6 @@ body {
   background-color: azure;
   padding: 8px;
 }
+.nocopy{
+  user-select:none;
+}
